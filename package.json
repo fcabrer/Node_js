@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-node",
+  "version": "1.0.0",
+  "description": "mi primer proyecto de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first",
+    "proyecto"
+  ],
+  "author": "Federico Cabrera",
+  "license": "ISC"
+}
